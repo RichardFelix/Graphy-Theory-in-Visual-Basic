@@ -19,5 +19,10 @@ name “Tantalizer”, and more recently as the popular puzzle
 “Instant Insanity”. There are 41,472 number of ways to do this so
 finding a solution is difficult.	
 We used graph theory to solve this game. Here is an example.
+![Alt text](https://github.com/RichardFelix/Graphy-Theory-in-Visual-Basic/raw/master/pics/1.PNG "Example")   
+![Alt text](https://github.com/RichardFelix/Graphy-Theory-in-Visual-Basic/raw/master/pics/2.PNG "Example")   
+
+#Visual Basic Solution
+![Alt text](https://github.com/RichardFelix/Graphy-Theory-in-Visual-Basic/raw/master/pics/me.PNG "Example")   
 
 
