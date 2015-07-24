@@ -1,0 +1,32 @@
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\bin\Debug\MathClass.exe.config
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\bin\Debug\MathClass.exe
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\bin\Debug\MathClass.pdb
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\bin\Debug\MathClass.xml
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\obj\Debug\MathClass.Resources.resources
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\obj\Debug\MathClass.vbproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\obj\Debug\MathClass.exe
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\obj\Debug\MathClass.xml
+c:\users\richard\documents\visual studio 2013\Projects\MathClass\MathClass\obj\Debug\MathClass.pdb
+C:\Users\Richard\documents\visual studio 2013\Projects\MathClass\MathClass\obj\Debug\MathClass.Form.resources
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.exe.config
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.exe
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.xml
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.pdb
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.exe
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.pdb
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.xml
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.Form.resources
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.Resources.resources
+C:\Users\Richard\OneDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.vbproj.GenerateResource.Cache
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.exe.config
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.exe
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.xml
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.pdb
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.exe
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.pdb
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\bin\Debug\MathClass.xml
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.vbprojResolveAssemblyReference.cache
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.Form.resources
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.Resources.resources
+C:\Users\Richard\SkyDrive\Apps\Projects\Projects\MathClass\MathClass\obj\Debug\MathClass.vbproj.GenerateResource.Cache
